@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq-model",
+  "version": "1.0.0",
+  "description": "rabbitmq consumer publisher model",
+  "main": "publisher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nibrasohin/rabbitmq-model.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nibrasohin/rabbitmq-model/issues"
+  },
+  "homepage": "https://github.com/nibrasohin/rabbitmq-model#readme",
+  "dependencies": {
+    "amqplib": "^0.7.1"
+  }
+}
